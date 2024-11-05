@@ -1,22 +1,47 @@
 ---
-title: Duvet Genius
+title: Q Grúas CRM
 publishDate: 2020-03-04 00:00:00
 img: /assets/stock-3.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  We develop a claims management system for internal management of the company.
 tags:
-  - Design
+  - UX
   - Dev
-  - Branding
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+The CRM system developed for Qualitas is designed to optimize the management of claims and the coordination of tow truck dispatches for policyholders, integrating advanced technology and user-level access control for secure and efficient management. Specifically tailored for call center employees, this system enables real-time tracking, resource allocation, and claim assistance, enhancing customer experience and operational efficiency.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Key Features
+Claims Management:
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Registration of new claims and capture of relevant data (date, time, location, type of incident, etc.).
+Assignment of responsible team members, allowing precise tracking at each stage of the claim process.
+Real-time status updates, providing visibility to all parties involved in the case.
+Tow Truck Dispatch Coordination:
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Google Maps Integration: Precise location tracking of claim incidents through the Google Maps API, allowing call center staff to pinpoint the exact location and dispatch the nearest available tow truck for minimal arrival time.
+Visualization of optimized routes and estimated arrival times to facilitate logistics and ensure prompt communication with the policyholder.
+Prioritization system to assign tow trucks based on the urgency of the case and availability in the area.
+Dispatch confirmation and tracking, with real-time location updates, enabling direct communication with tow truck operators and the policyholder.
+User-Level Access Management:
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Access Levels and Permissions: Configuration of different user roles (call center agent, supervisor, administrator, etc.) to define access and permissions for each role within the CRM.
+Controlled access to advanced features and sensitive information, ensuring that each user has only the necessary access according to their responsibilities.
+Administration panel to manage users, roles, and permissions, with the ability to grant or restrict access to specific modules (e.g., reports, claims history).
+Policyholder History and Tracking:
+
+Full view of each policyholder's claim history, including details of services provided and response times.
+Quick access to customer information, enabling more personalized service.
+Reports and Analytics:
+
+Generation of detailed reports on the number of managed claims, response times, and dispatch efficiency.
+Analysis of key metrics to identify areas for improvement in the assistance process and dispatch logistics.
+Alerts and Notifications:
+
+Notification system to alert employees of pending or urgent cases, ensuring a quick and efficient response.
+Real-time alerts for claim status updates or notifications when the tow truck is en route or has arrived at the location.
+Outcomes
+The implementation of this CRM has allowed Qualitas to reduce response times, optimize tow truck dispatch logistics, and enhance customer satisfaction by providing fast and efficient assistance. The Google Maps integration ensures precise location tracking and real-time control of dispatches, while user-level access management provides a secure system with controlled access tailored to each role's needs. This CRM has become an essential tool for the call center team, enabling agile and effective assistance in emergency situations for policyholders.
+
+This CRM has empowered Qualitas to strengthen its customer service processes and response efficiency in critical situations, aligning with the goals of efficiency, security, and personalization in claims management.

@@ -1,17 +1,31 @@
 ---
-title: Markdown Mystery Tour
+title: Garri Chatbot
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  We develop a WhatsApp chatbot as a direct sales channel for Pepsi customers
 tags:
-  - Design
+  - ux
   - Dev
   - User Testing
 ---
 
-## Level-two heading
+### Natural and Instant Interaction
+
+The chatbot was built with an advanced natural language processing (NLP) system, enabling it to understand and accurately respond to a wide variety of customer questions and requests. This NLP system was configured to interpret everyday language as well as specific terms related to Pepsico’s products and services. This facilitates a smooth conversation that feels like interacting with a human agent, allowing customers to feel attended to instantly. The response speed is immediate, eliminating wait times and providing customers with real-time assistance and answers.
+
+
+### Simplified and User-Friendly Purchase Flow
+
+The chatbot was designed to guide customers through the purchase process in just a few intuitive steps. Through an interactive flow, users can explore products, select options (such as quantities and sizes), and receive clear order confirmations quickly. Dropdown menus and predefined options were implemented to streamline navigation without requiring technical knowledge, allowing customers to reach the payment stage quickly and easily. This approach also helps reduce cart abandonment by minimizing friction and making the purchasing process accessible for all types of users.
+
+
+### Integration with Order Management and Customer Data Systems
+
+One of the key technical implementations was fully integrating the chatbot with Pepsico’s order management system. This integration allows the chatbot to access real-time data on inventory, updated prices, and order status, providing customers with accurate and up-to-date information. Additionally, the chatbot can remember each customer’s preferences and purchase history, enabling personalized recommendations and a quick reorder option. This feature not only streamlines the buying process but also fosters brand loyalty by offering a personalized and convenient experience.
+
+<!-- ## Level-two heading
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn.
 
@@ -32,4 +46,4 @@ Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum qu
 #### Level-four heading
 
 - We noted this
-- And also this other point
+- And also this other point -->
